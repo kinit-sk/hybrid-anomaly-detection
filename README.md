@@ -28,3 +28,12 @@ Just run the notebooks according to their ordinal number in the name.
 | 02 | Analysis of results from pure anomaly detector |
 | 03 | Training classification prefilter on balanced subset of original train set and enrich anomaly detection results on test set |
 | 04 | Analysis of results from hybrid anomaly detector |
+
+## Cite [ToDo]
+```bibtex
+@article{XXXX,
+  author = {Dominik Macko and Patrik Goldschmidt and Peter Pi\v{s}tek and Daniela Chud\'{a}},
+  title = {Assessing the Impact of a Supervised Classification Filter for Flow-based Hybrid Network Anomaly Detection},
+  journal = {XXXX},
+  year = {2023}
+}
