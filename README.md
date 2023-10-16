@@ -1,5 +1,5 @@
 # Hybrid Anomaly Detection based on IP-Flows Network Statistics
-Source code for replication of the experiments in the paper "Assessing the Impact of a Supervised Classification Filter for Flow-based Hybrid Network Anomaly Detection".
+Source code for replication of the experiments in the paper ["Assessing the Impact of a Supervised Classification Filter for Flow-based Hybrid Network Anomaly Detection"](https://arxiv.org/abs/2310.06656).
 
 ### Install Dependencies
 Create a new conda environment as in original [GEE implementation](https://github.com/munhouiani/GEE), which this method is heavily based on.
@@ -31,9 +31,12 @@ Just run the notebooks according to their ordinal number in the name.
 
 ## Cite [ToDo]
 ```bibtex
-@article{XXXX,
-  author = {Dominik Macko and Patrik Goldschmidt and Peter Pi\v{s}tek and Daniela Chud\'{a}},
-  title = {Assessing the Impact of a Supervised Classification Filter for Flow-based Hybrid Network Anomaly Detection},
-  journal = {XXXX},
-  year = {2023}
+@misc{macko2023assessing,
+      title={Assessing the Impact of a Supervised Classification Filter on Flow-based Hybrid Network Anomaly Detection}, 
+      author={Dominik Macko and Patrik Goldschmidt and Peter Pi\v{s}tek and Daniela Chud\'{a}},
+      year={2023},
+      eprint={2310.06656},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
+```
